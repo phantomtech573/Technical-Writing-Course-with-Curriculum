@@ -2,7 +2,8 @@
 
 This Curriculum by **[Hackmamba](https://hackmamba.io/)** is designed for newbie and beginner technical writers who want to excel in technical writing and learn more about it.
 
-If you have questions or want to network with other technical writers, join our **[Discord](https://discord.com/invite/MjbyDy3sPp)** community and if you want to explore some exclusive opportunities with Hackmamba, fill out this [form](https://get.hackmamba.io/community-member)!
+If you have questions or want to network with other technical writers, join our **[Discord](https://discord.com/invite/MjbyDy3sPp)
+```** community and if you want to explore some exclusive opportunities with Hackmamba, fill out this [form](https://get.hackmamba.io/community-member)
 
 Make sure to give us a star ⭐ on this repository. This will help us out a lot to improve and work on amazing projects and programs like these!
 
@@ -12,7 +13,7 @@ Make sure to give us a star ⭐ on this repository. This will help us out a lot 
 
 **Understand the definition, importance, and role of technical writing.**
 
-<details>
+<details.c>
 <summary>What is Technical Writing</summary>
 
 **[Best Roadmap to Learn Technical Writing](https://dev.to/engroso/best-roadmap-to-learn-technical-writing-2057)**
