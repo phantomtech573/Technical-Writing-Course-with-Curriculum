@@ -1,4 +1,4 @@
-Main
+Star_Hack-mamba.c
 # Course Curriculum - Beginner & Intermediate Level
 
 "[✨Star_Hack-mamba](https://hackmamba.io/)"
