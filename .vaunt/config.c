@@ -1,9 +1,6 @@
-tree.c
-version: 0.0.1
-achievements:
-  - achievement:
-      name: STAR_Hack-mamba.C
-      icon:hackmamba_contribute.png https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_star.png
+tree.c.vaunt.config.c.0.0.1.STAR_Hack-mamba.C.icon:
+  "hackmamba_contribute.png"
+  "https://raw.githubusercontent.com/hackmamba-io/Technical-Writing-Course-with-Curriculum/main/.vaunt/hackmamba_star.png"
       description: Awarded for starring our repository, make a wish!
       triggers: iWish, Upon, -A, Star
         - trigger: -A, Star
