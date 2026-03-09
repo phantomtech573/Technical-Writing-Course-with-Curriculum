@@ -1,4 +1,4 @@
-README.md
+README
 # Course Curriculum - Beginner & Intermediate Level
 
 "[✨Star_Hack-mamba](https://hackmamba.io/)"
