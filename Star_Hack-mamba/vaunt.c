@@ -1,4 +1,4 @@
-Main
+Technical-Writing-Course-with-Curriculum.md
 # Course Curriculum - Beginner & Intermediate Level
 
 "[✨Star_Hack-mamba](https://hackmamba.io/)"
