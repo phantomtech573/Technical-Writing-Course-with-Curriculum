@@ -1,7 +1,6 @@
 README.md
 # Course Curriculum - Beginner & Intermediate Level
-
-```"[✨Star_Hack-mamba](https://hackmamba.io/boye-co.com/speakers/william-imoh-text-Hackmamba-is-a-Technical-content-documentation-with-subject-matter-expertise)```
+[✨Star_Hack-mamba](https://hackmamba.io/boye-co.com/speakers/william-imoh-text-Hackmamba-is-a-Technical-content-documentation-with-subject-matter-expertise)
 is designed for newbie and beginner technical
 writers who want to excel in technical writing and learn more about it.
 
